@@ -1,5 +1,5 @@
-# ELECTRIC VEHICLE  MARKET DATA ANALYSIS
-📊 Project Overview
+# ELECTRIC VEHICLE  MARKET DATA ANALYSIS 
+## 📊 Project Overview
 This project analyzes the United States Electric Vehicle Population Data to assess the market's size, growth trends, and key technological metrics. The analysis is presented through an interactive dashboard built in Tableau.
 
 Dashboard Platform: Tableau Public
@@ -10,10 +10,9 @@ Objective: To visualize and understand the landscape of electric vehicle adoptio
 
 🔗 Tableau Public Dashboard
 You can view the interactive dashboard on Tableau Public by following the link below. The dashboard is best viewed in full-screen mode.
-
 [ELECTIC VEHICLES POPULATION ANALYSIS LINK](https://public.tableau.com/views/ElectricVehiclesDataAnalysis_17596865751070/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-✅ Questions Answered
+## ✅ Questions Answered
 The following visualizations and analyses from the original problem statement have been successfully implemented in the Tableau dashboard:
 
 Total Vehicles by Model Year (From 2010 Onwards)
@@ -40,15 +39,15 @@ Visualization: Pie Chart or Donut Chart
 
 Description: This chart illustrates the proportion of vehicles that are eligible for Clean Alternative Fuel Vehicle (CAFV) incentives.
 
-⚠️ Pending Item
+## ⚠️ Pending Item
 Question 5: Top 10 Total Vehicles by Model
 
 This analysis, which was intended to be a treemap visualization, has not yet been incorporated into the dashboard. Treemaps are useful for displaying part-to-whole relationships in a hierarchical, space-constrained layout, but a bar chart can serve as an effective alternative if the treemap appears cluttered.
 
-📁 Repository Contents
+## 📁 Repository Contents
 README.md: This file, which provides an overview of the project.
 
 data/: Electric vehicle data in excel sheet, Questions to be answered through the dashboard in ppt format
 
-🛠 Software Used
+## 🛠 Software Used
 Tableau Desktop and  Tableau Public: For data visualization and dashboard creation
