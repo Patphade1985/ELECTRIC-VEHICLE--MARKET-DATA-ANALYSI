@@ -1,0 +1,47 @@
+# Operating System Files
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Linux
+*~
+
+
+# Environment and Configuration Files
+# General
+*.log
+*.tmp
+*.temp
+
+# Sensitive Data
+# Never commit files containing secrets!
+.env
+.config
+
+
+# Data Analysis / Large Files
+# Large data files (cache, temporary processing files)
+*.csv~
+*.xlsx~
+*.zip
+*.rar
+
+
+# IDE (Generic, if you use a different editor)
+# For example, JetBrains IDEs (PyCharm, IntelliJ)
+.idea/
+*.iws
+*.iml
+
+
+# Project Specific
+# Add any other files or folders specific to your tools here
