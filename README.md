@@ -11,9 +11,7 @@ Objective: To visualize and understand the landscape of electric vehicle adoptio
 🔗 Tableau Public Dashboard
 You can view the interactive dashboard on Tableau Public by following the link below. The dashboard is best viewed in full-screen mode.
 
-[ELECTIC VEHICLES POPULATION ANALYSIS](https://public.tableau.com/views/ElectricVehiclesDataAnalysis_17596865751070/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-Note on Publishing: Your workbook must be saved to Tableau Public to get a shareable link. In Tableau Desktop, use Server > Tableau Public > Save to Tableau Public. Remember that workbooks published to Tableau Public are accessible to anyone.
+[ELECTIC VEHICLES POPULATION ANALYSIS LINK](https://public.tableau.com/views/ElectricVehiclesDataAnalysis_17596865751070/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ✅ Questions Answered
 The following visualizations and analyses from the original problem statement have been successfully implemented in the Tableau dashboard:
@@ -50,9 +48,7 @@ This analysis, which was intended to be a treemap visualization, has not yet bee
 📁 Repository Contents
 README.md: This file, which provides an overview of the project.
 
-data/: (If applicable) Directory containing the dataset(s) used for the analysis.
-
-screenshots/: (If applicable) Folder containing static images of the dashboard.
+data/: Electric vehicle data in excel sheet, Questions to be answered through the dashboard in ppt format
 
 🛠 Software Used
-Tableau Desktop / Tableau Public: For data visualization and dashboard creation
+Tableau Desktop and  Tableau Public: For data visualization and dashboard creation
